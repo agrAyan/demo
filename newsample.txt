@@ -1,2 +1,6 @@
 hi this is a sample file
+ HEAD
 update from local repo
+
+updated from remote repo
+>>>>>>> be5dc36ff45dab045b6e48397747ce5280060a21
